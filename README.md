@@ -22,7 +22,7 @@ Generating video...
 DONE! Here's your video: shorts/1701788183/short.avi
 ```
 
-## Caption styling
+## Caption Styling
 
 Optionally, you can specify a settings file to define settings for the caption styling:
 
